@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/valorant/static/js/main.0abae383.chunk.js",
+    "main.js.map": "/valorant/static/js/main.0abae383.chunk.js.map",
+    "runtime-main.js": "/valorant/static/js/runtime-main.ae2328c2.js",
+    "runtime-main.js.map": "/valorant/static/js/runtime-main.ae2328c2.js.map",
+    "static/js/2.7df8086a.chunk.js": "/valorant/static/js/2.7df8086a.chunk.js",
+    "static/js/2.7df8086a.chunk.js.map": "/valorant/static/js/2.7df8086a.chunk.js.map",
+    "index.html": "/valorant/index.html",
+    "static/js/2.7df8086a.chunk.js.LICENSE.txt": "/valorant/static/js/2.7df8086a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae2328c2.js",
+    "static/js/2.7df8086a.chunk.js",
+    "static/js/main.0abae383.chunk.js"
+  ]
+}
